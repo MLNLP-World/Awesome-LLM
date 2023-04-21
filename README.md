@@ -41,6 +41,7 @@
 **Dialogue**
 
 1. [A Preliminary Evaluation of ChatGPT for Zero-shot Dialogue Understanding](https://arxiv.org/abs/2304.04256). Wenbo Pan, Qiguang Chen, Xiao Xu, Wanxiang Che, Libo Qin.
+2. [Language-Driven Representation Learning for Robotics](http://arxiv.org/abs/2302.12766). Siddharth Karamcheti, Suraj Nair,Annie Chen, Thomas Kollar, Chelsea Finn, Dorsa Sadigh, Percy Liang
 
 **Summarization**
 
@@ -48,6 +49,7 @@
 2. [Human-like Summarization Evaluation with ChatGPT](https://arxiv.org/abs/2304.02554). Mingqi Gao, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan
 3. [ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization](https://arxiv.org/abs/2303.15621). Zheheng Luo, Qianqian Xie, Sophia Ananiadou
 4. [Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization](https://arxiv.org/abs/2302.08081). Xianjun Yang, Yan Li, Xinlu Zhang, Haifeng Chen, Wei Cheng
+5. [Cross-Lingual Summarization via ChatGPT](http://arxiv.org/abs/2302.14229). Jiaan Wang, Yunlong Liang, Fandong Meng, Zhixu Li, Jianfeng Qu, Jie Zhou
 
 **Robot**
 
@@ -118,11 +120,19 @@
 
 2. [Is ChatGPT a Good Recommender? A Preliminary Study](https://arxiv.org/pdf/2304.10149.pdf). Junling Liu, Chao Liu, Renjie Lv, Kang Zhou, Yan Zhang
 
-   
+**Safety**
+
+1. [The Capacity for Moral Self-Correction in Large Language Models](http://arxiv.org/pdf/2302.07459.pdf). Deep Ganguli , Amanda Askell, Nicholas Schiefer, Thomas I. Liao, Kamile Lukošiute, Anna Chen, Anna Goldie, Azalia Mirhoseini, Catherine Olsson, Danny Hernandez, Dawn Drain, Dustin Li, Eli Tran-Johnson, Ethan Perez, Jackson Kernion, Jamie Kerr, Jared Mueller, Joshua Landau, Kamal Ndousse, Karina Nguyen, Liane Lovitt, Michael Sellitto, Nelson Elhage, Noemi Mercado, Nova DasSarma, Oliver Rausch, Robert Lasenby, Robin Larson, Sam Ringer, Sandipan Kundu, Saurav Kadavath, Scott Johnston, Shauna Kravec, Sheer El Showk, Tamera Lanham, Timothy Telleen-Lawton, Tom Henighan, Tristan Hume, Yuntao Bai, Zac Hatfield-Dodds Ben Mann, Dario Amodei, Nicholas Joseph, Sam McCandlish, Tom Brown, Christopher Olah, Jack Clark, Samuel R. Bowman, Jared Kaplan
+2. [Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](http://arxiv.org/abs/2304.05335). Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan
 
 **Application**
 
 1、[Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354). Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun.
+2. [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf). Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
+
+**AGI**
+
+1. [Sparks of Artificial General Intelligence: Early experiments with GPT-4](http://arxiv.org/abs/2303.12712). Sebastien Bubeck Varun Chandrasekaran Ronen Eldan Johannes Gehrke Eric Horvitz Ece Kamar Peter Lee Yin Tat Lee Yuanzhi Li Scott Lundberg Harsha Nori Hamid Palangi Marco Tulio Ribeiro Yi Zhang
 
 **Analysis, Challenge and Future Work**
 
@@ -143,6 +153,7 @@
 14. [Exploring AI Ethics of ChatGPT: A Diagnostic Analysis](https://arxiv.org/abs/2301.12867). Terry Yue Zhuo, Yujin Huang, Chunyang Chen, Zhenchang Xing
 15. [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597). Biyang Guo, Xin Zhang, Ziyuan Wang, Minqi Jiang, Jinran Nie, Yuxuan Ding, Jianwei Yue, Yupeng Wu
 16. [Can ChatGPT and Bard Generate Aligned Assessment Items? A Reliability Analysis against Human Performance](https://arxiv.org/abs/2304.05372). Abdolvahab Khademi
-
-
-
+17. [Large Language Models Can Be Easily Distracted by Irrelevant Context](http://arxiv.org/abs/2302.00093) Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Scharli, Denny Zhou
+18. [GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities](https://www.ssrn.com/abstract=4322372). Jillian Bommarito, Michael J Bommarito II, Jessica Katz, Daniel Martin Katz
+19. [Exploring ChatGPT's Ability to Rank Content: A Preliminary Study on Consistency with Human Preferences](http://arxiv.org/abs/2303.07610). Yunjie Ji, Yan Gong, Yiping Peng, Chao Ni, Peiyan Sun, Dongyu Pan, Baochang Ma*, Xiangang Li
+20. [ChatGPT versus Traditional Question Answering for Knowledge Graphs: Current Status and Future Directions Towards Knowledge Graph Chatbots](http://arxiv.org/abs/2302.06466). Reham Omar, Omij Mangukiya, Panos Kalnis, Essam Mansour
