@@ -59,7 +59,6 @@
 
 1. [Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4](https://arxiv.org/abs/2304.03439). Hanmeng Liu, Ruoxi Ning, Zhiyang Teng, Jian Liu, Qiji Zhou, Yue Zhang
 
-
 **Medical AI**
 
 1. [On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental Health Analysis](https://arxiv.org/abs/2304.03347). Kailai Yang, Shaoxiong Ji, Tianlin Zhang, Qianqian Xie, Sophia Ananiadou
@@ -105,6 +104,13 @@
 
 1. [Exploring the Feasibility of ChatGPT for Event Extraction](https://arxiv.org/abs/2303.03836). Jun Gao, Huan Zhao, Changlong Yu, Ruifeng Xu
 2. [Zero-Shot Information Extraction via Chatting with ChatGPT](https://arxiv.org/abs/2302.10205). Xiang Wei, Xingyu Cui, Ning Cheng, Xiaobin Wang, Xin Zhang, Shen Huang, Pengjun Xie, Jinan Xu, Yufeng Chen, Meishan Zhang, Yong Jiang, Wenjuan Han
+
+**Information Extraction**
+
+1. [Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language](https://arxiv.org/pdf/2210.12810.pdf). Xingyao Wang, Sha Li, Heng Ji
+2. [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples](https://arxiv.org/abs/2303.08559)! Yubo Ma, Yixin Cao, YongChing Hong, Aixin Sun
+3. [Thinking about GPT-3 in-context learning for biomedical IE?] (https://arxiv.org/abs/2203.08410) Bernal Jiménez Gutiérrez, Nikolas McNeal, Clay Washington, You Chen, Lang Li, Huan Sun, Yu Su
+4. [Yes but.. Can ChatGPT Identify Entities in Historical Documents?] (https://arxiv.org/abs/2303.17322) Carlos-Emiliano González-Gallardo, Emanuela Boros, Nancy Girdhar, Ahmed Hamdi, Jose G. Moreno, Antoine Doucet
 
 **Data Augmentation**
 
