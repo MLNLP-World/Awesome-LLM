@@ -1,3 +1,5 @@
+<h1 align="center"> <img src="./img/ai.png" width="30" />《Awesome-LLM》</h1>
+
 **This project collects awesome resources (e.g., papers, open-source models) for large language model (LLM).**
 
 ## Updates
