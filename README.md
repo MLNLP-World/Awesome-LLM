@@ -8,6 +8,11 @@
 
 ## Open-source Models
 
+**StableLM**
+>StableLM: Stability AI Language Models
+
+>GitHub: [https://github.com/Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)
+
 **Colossal-AI**
 >Colossal-AI: Making large AI models cheaper, faster, and more accessible
 
