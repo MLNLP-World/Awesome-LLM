@@ -1,10 +1,21 @@
 <h1 align="center"> <img src="./img/ai.png" width="30" />《Awesome-LLM》</h1>
 
-**This project collects awesome resources (e.g., papers, open-source models) for large language model (LLM).**
-
 ## Updates
 - [04/22/2023]: Add Open-source Projects 
 - [04/21/2023]: Add ChatGPT-related Papers
+
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Open-source Models](#open-source-models)
+- [Papers](#papers)
+
+## Introduction
+
+This repository collects awesome projects and resources related to large language model (LLM).
+
+
 
 ## Open-source Models
 
