@@ -181,8 +181,8 @@ This repository collects awesome projects and resources related to large languag
 
 1. [Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language](https://arxiv.org/pdf/2210.12810.pdf). Xingyao Wang, Sha Li, Heng Ji
 2. [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples](https://arxiv.org/abs/2303.08559)! Yubo Ma, Yixin Cao, YongChing Hong, Aixin Sun
-3. [Thinking about GPT-3 in-context learning for biomedical IE?] (https://arxiv.org/abs/2203.08410) Bernal Jiménez Gutiérrez, Nikolas McNeal, Clay Washington, You Chen, Lang Li, Huan Sun, Yu Su
-4. [Yes but.. Can ChatGPT Identify Entities in Historical Documents?] (https://arxiv.org/abs/2303.17322) Carlos-Emiliano González-Gallardo, Emanuela Boros, Nancy Girdhar, Ahmed Hamdi, Jose G. Moreno, Antoine Doucet
+3. [Thinking about GPT-3 in-context learning for biomedical IE?](https://arxiv.org/abs/2203.08410) Bernal Jiménez Gutiérrez, Nikolas McNeal, Clay Washington, You Chen, Lang Li, Huan Sun, Yu Su
+4. [Yes but.. Can ChatGPT Identify Entities in Historical Documents?](https://arxiv.org/abs/2303.17322) Carlos-Emiliano González-Gallardo, Emanuela Boros, Nancy Girdhar, Ahmed Hamdi, Jose G. Moreno, Antoine Doucet
 
 **Data Augmentation**
 
@@ -206,7 +206,7 @@ This repository collects awesome projects and resources related to large languag
 
 **Application**
 
-1、[Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354). Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun.
+1. [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354). Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun.
 2. [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf). Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
 
 **AGI**
