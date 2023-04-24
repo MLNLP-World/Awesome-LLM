@@ -97,6 +97,7 @@ This repository collects awesome projects and resources related to large languag
 6. [Towards Making the Most of ChatGPT for Machine Translation](https://arxiv.org/abs/2303.13780). Keqin Peng, Liang Ding, Qihuang Zhong, Li Shen, Xuebo Liu, Min Zhang, Yuanxin Ouyang, Dacheng Tao
 7. [How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation](https://arxiv.org/abs/2302.09210). Amr Hendy, Mohamed Abdelrehim, Amr Sharaf, Vikas Raunak, Mohamed Gabr, Hitokazu Matsushita, Young Jin Kim, Mohamed Afify, Hany Hassan Awadalla
 8. [Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine](https://arxiv.org/abs/2301.08745). Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu
+9. [How to Design Translation Prompts for ChatGPT: An Empirical Study](https://arxiv.org/pdf/2304.02182.pdf). Yuan Gao, Ruili Wang, Feng Hou
 
 **Sentiment Analysis**
 
@@ -186,6 +187,7 @@ This repository collects awesome projects and resources related to large languag
 **Data Augmentation**
 
 1. [AugGPT: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007). Haixing Dai, Zhengliang Liu, Wenxiong Liao, Xiaoke Huang, Yihan Cao, Zihao Wu, Lin Zhao, Shaochen Xu, Wei Liu, Ninghao Liu, Sheng Li, Dajiang Zhu, Hongmin Cai, Lichao Sun, Quanzheng Li, Dinggang Shen, Tianming Liu, Xiang Li
+2. [Testing the Reliability of ChatGPT for Text Annotation and Classification: A Cautionary Remark](https://arxiv.org/pdf/2304.11085.pdf) Michael V. Reiss
 
 **Mathematical Word Problem**
 
@@ -234,6 +236,7 @@ This repository collects awesome projects and resources related to large languag
 18. [GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities](https://www.ssrn.com/abstract=4322372). Jillian Bommarito, Michael J Bommarito II, Jessica Katz, Daniel Martin Katz
 19. [Exploring ChatGPT's Ability to Rank Content: A Preliminary Study on Consistency with Human Preferences](http://arxiv.org/abs/2303.07610). Yunjie Ji, Yan Gong, Yiping Peng, Chao Ni, Peiyan Sun, Dongyu Pan, Baochang Ma*, Xiangang Li
 20. [ChatGPT versus Traditional Question Answering for Knowledge Graphs: Current Status and Future Directions Towards Knowledge Graph Chatbots](http://arxiv.org/abs/2302.06466). Reham Omar, Omij Mangukiya, Panos Kalnis, Essam Mansour
-
+21. [Conversational Process Modelling: State of the Art, Applications, and Implications in Practice](https://arxiv.org/pdf/2304.11065). Nataliia Klievtsova, Janik-Vasily Benzin, Timotheus Kampik, Juergen Mangler, Stefanie Rinderle-Ma
+22. [Can ChatGPT-like Generative Models Guarantee Factual Accuracy? On the Mistakes of New Generation Search Engines](https://arxiv.org/pdf/2304.11076.pdf). Ruochen Zhao, Xingxuan Li, Yew Ken Chia, Bosheng Ding, Lidong Bing
 
 
