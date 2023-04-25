@@ -1,6 +1,7 @@
 <h1 align="center"> <img src="./img/ai.png" width="30" />《Awesome-LLM》</h1>
 
 ## Updates
+- [04/26/2023]: Add Open-source Instruction Data
 - [04/22/2023]: Add Open-source Projects 
 - [04/21/2023]: Add ChatGPT-related Papers
 
@@ -9,6 +10,7 @@
 
 - [Introduction](#introduction)
 - [Open-source Models](#open-source-models)
+- [Open-source Instruction Data](#open-source-instruction-data)
 - [Papers](#papers)
 
 ## Introduction
@@ -77,7 +79,7 @@ This repository collects awesome projects and resources related to large languag
 
 >GitHub: [https://github.com/ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
 
-## Open-source Instruction/Agents Data
+## Open-source Instruction Data
 
 **PromptSource**
 >PromptSource is a toolkit for creating, sharing and using natural language prompts. [2k][English]
