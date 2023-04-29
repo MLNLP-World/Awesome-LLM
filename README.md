@@ -17,8 +17,6 @@
 
 This repository collects awesome projects and resources related to large language model (LLM).
 
-
-
 ## Open-source Models
 
 **StableLM**
@@ -358,6 +356,14 @@ Generalization via Declarative Instructions on 1600+ NLP Tasks [1.6k][Multilingu
 
 1. [AugGPT: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007). Haixing Dai, Zhengliang Liu, Wenxiong Liao, Xiaoke Huang, Yihan Cao, Zihao Wu, Lin Zhao, Shaochen Xu, Wei Liu, Ninghao Liu, Sheng Li, Dajiang Zhu, Hongmin Cai, Lichao Sun, Quanzheng Li, Dinggang Shen, Tianming Liu, Xiang Li
 2. [Testing the Reliability of ChatGPT for Text Annotation and Classification: A Cautionary Remark](https://arxiv.org/pdf/2304.11085.pdf) Michael V. Reiss
+3. [Is a prompt and a few samples all you need? Using GPT-4 for data augmentation in low-resource classification tasks](https://arxiv.org/pdf/2304.13861.pdf). Anders Giovanni Møller, Jacob Aarup Dalsgaard, Arianna Pera, Luca Maria Aiello
+
+**Keyphrase Generation**
+
+1. [ChatGPT vs State-of-the-Art Models: A Benchmarking Study in Keyphrase Generation Task](https://arxiv.org/pdf/2304.14177.pdf). Roberto Martínez-Cruz, Alvaro J. López-López, José Portela
+
+**Industrial Engineering**
+1. [Industrial Engineering with Large Language Models: A case study of ChatGPT's performance on Oil & Gas problems](https://arxiv.org/pdf/2304.14354.pdf). Oluwatosin Ogundare, Srinath Madasu, Nathanial Wiggins
 
 **Mathematical Word Problem**
 
@@ -408,5 +414,7 @@ Generalization via Declarative Instructions on 1600+ NLP Tasks [1.6k][Multilingu
 20. [ChatGPT versus Traditional Question Answering for Knowledge Graphs: Current Status and Future Directions Towards Knowledge Graph Chatbots](http://arxiv.org/abs/2302.06466). Reham Omar, Omij Mangukiya, Panos Kalnis, Essam Mansour
 21. [Conversational Process Modelling: State of the Art, Applications, and Implications in Practice](https://arxiv.org/pdf/2304.11065). Nataliia Klievtsova, Janik-Vasily Benzin, Timotheus Kampik, Juergen Mangler, Stefanie Rinderle-Ma
 22. [Can ChatGPT-like Generative Models Guarantee Factual Accuracy? On the Mistakes of New Generation Search Engines](https://arxiv.org/pdf/2304.11076.pdf). Ruochen Zhao, Xingxuan Li, Yew Ken Chia, Bosheng Ding, Lidong Bing
+23. [ChatLog: Recording and Analyzing ChatGPT Across Time](https://arxiv.org/pdf/2304.14106.pdf). Shangqing Tu, Chunyang Li, Jifan Yu, Xiaozhi Wang, Lei Hou, Juanzi Li
+24. [The Dark Side of ChatGPT: Legal and Ethical Challenges from Stochastic Parrots and Hallucination](https://arxiv.org/pdf/2304.14347.pdf). Zihao Li
 
 
