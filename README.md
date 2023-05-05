@@ -375,6 +375,8 @@ Generalization via Declarative Instructions on 1600+ NLP Tasks [1.6k][Multilingu
 
 2. [Is ChatGPT a Good Recommender? A Preliminary Study](https://arxiv.org/pdf/2304.10149.pdf). Junling Liu, Chao Liu, Renjie Lv, Kang Zhou, Yan Zhang
 
+3. [Uncovering ChatGPT’s Capabilities in Recommender Systems](https://arxiv.org/pdf/2305.02182.pdf). Sunhao Dai,Ninglu Shao,Haiyuan Zhao,Weijie Yu,Zihua Si,Chen Xu1
+
 **Safety**
 
 1. [The Capacity for Moral Self-Correction in Large Language Models](http://arxiv.org/pdf/2302.07459.pdf). Deep Ganguli , Amanda Askell, Nicholas Schiefer, Thomas I. Liao, Kamile Lukošiute, Anna Chen, Anna Goldie, Azalia Mirhoseini, Catherine Olsson, Danny Hernandez, Dawn Drain, Dustin Li, Eli Tran-Johnson, Ethan Perez, Jackson Kernion, Jamie Kerr, Jared Mueller, Joshua Landau, Kamal Ndousse, Karina Nguyen, Liane Lovitt, Michael Sellitto, Nelson Elhage, Noemi Mercado, Nova DasSarma, Oliver Rausch, Robert Lasenby, Robin Larson, Sam Ringer, Sandipan Kundu, Saurav Kadavath, Scott Johnston, Shauna Kravec, Sheer El Showk, Tamera Lanham, Timothy Telleen-Lawton, Tom Henighan, Tristan Hume, Yuntao Bai, Zac Hatfield-Dodds Ben Mann, Dario Amodei, Nicholas Joseph, Sam McCandlish, Tom Brown, Christopher Olah, Jack Clark, Samuel R. Bowman, Jared Kaplan
