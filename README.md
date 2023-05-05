@@ -375,7 +375,7 @@ Generalization via Declarative Instructions on 1600+ NLP Tasks [1.6k][Multilingu
 
 2. [Is ChatGPT a Good Recommender? A Preliminary Study](https://arxiv.org/pdf/2304.10149.pdf). Junling Liu, Chao Liu, Renjie Lv, Kang Zhou, Yan Zhang
 
-3. [Uncovering ChatGPT’s Capabilities in Recommender Systems](https://arxiv.org/pdf/2305.02182.pdf). Sunhao Dai,Ninglu Shao,Haiyuan Zhao,Weijie Yu,Zihua Si,Chen Xu1
+3. [Uncovering ChatGPT’s Capabilities in Recommender Systems](https://arxiv.org/pdf/2305.02182.pdf). Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
 
 **Safety**
 
