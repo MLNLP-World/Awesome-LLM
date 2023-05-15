@@ -257,15 +257,16 @@ Generalization via Declarative Instructions on 1600+ NLP Tasks [1.6k][Multilingu
 
 **Machine Translation**
 
-1. [Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis](https://arxiv.org/abs/2304.04675). Wenhao Zhu, Hongyi Liu, Qingxiu Dong, Jingjing Xu, Lingpeng Kong, Jiajun Chen, Lei Li, Shujian Huang. 
-2. [ParroT: Translating During Chat Using Large Language Models](https://arxiv.org/abs/2304.02426). Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Xing Wang, Shuming Shi, Zhaopeng Tu
-3. [Document-Level Machine Translation with Large Language Models](https://arxiv.org/abs/2304.02210). Longyue Wang, Chenyang Lyu, Tianbo Ji, Zhirui Zhang, Dian Yu, Shuming Shi, Zhaopeng Tu
-4. [Unleashing the Power of ChatGPT for Translation: An Empirical Study](https://arxiv.org/abs/2304.02182). Yuan Gao, Ruili Wang, Feng Hou
-5. [Linguistically Informed ChatGPT Prompts to Enhance Japanese-Chinese Machine Translation: A Case Study on Attributive Clauses](https://arxiv.org/abs/2303.15587). Wenshi Gu
-6. [Towards Making the Most of ChatGPT for Machine Translation](https://arxiv.org/abs/2303.13780). Keqin Peng, Liang Ding, Qihuang Zhong, Li Shen, Xuebo Liu, Min Zhang, Yuanxin Ouyang, Dacheng Tao
-7. [How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation](https://arxiv.org/abs/2302.09210). Amr Hendy, Mohamed Abdelrehim, Amr Sharaf, Vikas Raunak, Mohamed Gabr, Hitokazu Matsushita, Young Jin Kim, Mohamed Afify, Hany Hassan Awadalla
-8. [Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine](https://arxiv.org/abs/2301.08745). Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu
-9. [How to Design Translation Prompts for ChatGPT: An Empirical Study](https://arxiv.org/pdf/2304.02182.pdf). Yuan Gao, Ruili Wang, Feng Hou
+1. [Exploring Human-Like Translation Strategy with Large Language Models ](https://arxiv.org/abs/2305.04118). Zhiwei He, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang
+2. [Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis](https://arxiv.org/abs/2304.04675). Wenhao Zhu, Hongyi Liu, Qingxiu Dong, Jingjing Xu, Lingpeng Kong, Jiajun Chen, Lei Li, Shujian Huang. 
+3. [ParroT: Translating During Chat Using Large Language Models](https://arxiv.org/abs/2304.02426). Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Xing Wang, Shuming Shi, Zhaopeng Tu
+4. [Document-Level Machine Translation with Large Language Models](https://arxiv.org/abs/2304.02210). Longyue Wang, Chenyang Lyu, Tianbo Ji, Zhirui Zhang, Dian Yu, Shuming Shi, Zhaopeng Tu
+5. [Unleashing the Power of ChatGPT for Translation: An Empirical Study](https://arxiv.org/abs/2304.02182). Yuan Gao, Ruili Wang, Feng Hou
+6. [Linguistically Informed ChatGPT Prompts to Enhance Japanese-Chinese Machine Translation: A Case Study on Attributive Clauses](https://arxiv.org/abs/2303.15587). Wenshi Gu
+7. [Towards Making the Most of ChatGPT for Machine Translation](https://arxiv.org/abs/2303.13780). Keqin Peng, Liang Ding, Qihuang Zhong, Li Shen, Xuebo Liu, Min Zhang, Yuanxin Ouyang, Dacheng Tao
+8. [How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation](https://arxiv.org/abs/2302.09210). Amr Hendy, Mohamed Abdelrehim, Amr Sharaf, Vikas Raunak, Mohamed Gabr, Hitokazu Matsushita, Young Jin Kim, Mohamed Afify, Hany Hassan Awadalla
+9. [Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine](https://arxiv.org/abs/2301.08745). Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu
+10. [How to Design Translation Prompts for ChatGPT: An Empirical Study](https://arxiv.org/pdf/2304.02182.pdf). Yuan Gao, Ruili Wang, Feng Hou
 
 **Sentiment Analysis**
 
@@ -418,5 +419,4 @@ Generalization via Declarative Instructions on 1600+ NLP Tasks [1.6k][Multilingu
 22. [Can ChatGPT-like Generative Models Guarantee Factual Accuracy? On the Mistakes of New Generation Search Engines](https://arxiv.org/pdf/2304.11076.pdf). Ruochen Zhao, Xingxuan Li, Yew Ken Chia, Bosheng Ding, Lidong Bing
 23. [ChatLog: Recording and Analyzing ChatGPT Across Time](https://arxiv.org/pdf/2304.14106.pdf). Shangqing Tu, Chunyang Li, Jifan Yu, Xiaozhi Wang, Lei Hou, Juanzi Li
 24. [The Dark Side of ChatGPT: Legal and Ethical Challenges from Stochastic Parrots and Hallucination](https://arxiv.org/pdf/2304.14347.pdf). Zihao Li
-
 
