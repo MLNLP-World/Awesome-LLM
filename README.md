@@ -77,6 +77,11 @@ This repository collects awesome projects and resources related to large languag
 
 >GitHub: [https://github.com/ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
 
+**BayLing**
+>BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models
+
+>GitHub: [https://github.com/ictnlp/BayLing](https://github.com/ictnlp/BayLing)
+
 ## Open-source Instruction Data
 
 **PromptSource**
