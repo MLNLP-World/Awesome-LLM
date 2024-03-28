@@ -393,6 +393,10 @@ Generalization via Declarative Instructions on 1600+ NLP Tasks [1.6k][Multilingu
 1. [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354). Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun.
 2. [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf). Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
 
+**Geographic / Geospatial Reasoning**
+
+1. [GPT4GEO: How a Language Model Sees the World's Geography](https://arxiv.org/abs/2306.00020). Jonathan Roberts, Timo Lüddecke, Sowmen Das, Kai Han, Samuel Albanie
+
 **AGI**
 
 1. [Sparks of Artificial General Intelligence: Early experiments with GPT-4](http://arxiv.org/abs/2303.12712). Sebastien Bubeck Varun Chandrasekaran Ronen Eldan Johannes Gehrke Eric Horvitz Ece Kamar Peter Lee Yin Tat Lee Yuanzhi Li Scott Lundberg Harsha Nori Hamid Palangi Marco Tulio Ribeiro Yi Zhang
