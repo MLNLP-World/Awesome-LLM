@@ -250,6 +250,15 @@ Generalization via Declarative Instructions on 1600+ NLP Tasks [1.6k][Multilingu
 >Link: [https://github.com/XueFuzhao/InstructionWild](https://github.com/XueFuzhao/InstructionWild)
 
 
+## API & Tools
+
+**AI Token Hub**
+>Unified API gateway for 90+ AI models through a single API key. Free tier available, no subscription needed.
+
+>Website: [https://aitoken-hub.github.io/aitoken-hub/](https://aitoken-hub.github.io/aitoken-hub/)
+>GitHub: [https://github.com/aitoken-hub/free-ai-apis](https://github.com/aitoken-hub/free-ai-apis)
+
+
 ## Papers
 
 **Survey**
