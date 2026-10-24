@@ -272,6 +272,7 @@ Generalization via Declarative Instructions on 1600+ NLP Tasks [1.6k][Multilingu
 8. [How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation](https://arxiv.org/abs/2302.09210). Amr Hendy, Mohamed Abdelrehim, Amr Sharaf, Vikas Raunak, Mohamed Gabr, Hitokazu Matsushita, Young Jin Kim, Mohamed Afify, Hany Hassan Awadalla
 9. [Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine](https://arxiv.org/abs/2301.08745). Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu
 10. [How to Design Translation Prompts for ChatGPT: An Empirical Study](https://arxiv.org/pdf/2304.02182.pdf). Yuan Gao, Ruili Wang, Feng Hou
+11. [Translate-and-Revise: Boosting Large Language Models for Constrained Translation](https://arxiv.org/abs/2407.13164). Pengcheng Huang, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao, Jingbo Zhu
 
 **Sentiment Analysis**
 
